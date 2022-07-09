@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/AndroidTrayning/app/src/main/res/layout/activity_main.xml" value="0.21875" />
+        <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/AndroidTrayning/app/src/main/res/drawable/blue_background.xml" value="0.1545" />
+        <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/AndroidTrayning/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1545" />
+        <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/AndroidTrayning/app/src/main/res/layout/activity_example.xml" value="0.21875" />
+        <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/AndroidTrayning/app/src/main/res/layout/activity_main.xml" value="0.19" />
         <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/AndroidTrayning/app/src/main/res/layout/activity_signin.xml" value="0.25" />
+        <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/AndroidTrayning/app/src/main/res/layout/fragment_apple.xml" value="0.21875" />
+        <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/AndroidTrayning/app/src/main/res/layout/fragment_banana.xml" value="0.21875" />
+        <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/AndroidTrayning/app/src/main/res/layout/fragment_grape.xml" value="0.21875" />
+        <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/AndroidTrayning/app/src/main/res/layout/fragment_grapes.xml" value="0.21875" />
+        <entry key="..\:/Users/Klap.ir/Documents/android/AndroidProject/AndroidTrayning/app/src/main/res/layout/fragment_orange.xml" value="0.21875" />
       </map>
     </option>
   </component>
